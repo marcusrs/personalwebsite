@@ -86,6 +86,7 @@ body {
 .text-grey1 {
   font-size:40px;
   color:white;
+  font-family: sans-serif;
 }
 
 .text-grey1:hover {
