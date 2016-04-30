@@ -1,2 +1,2 @@
 # personalwebsite
-This is my personal website for getting a job
+This is my Resume website
