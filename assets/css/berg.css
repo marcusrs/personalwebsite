@@ -1677,6 +1677,12 @@ button.mfp-arrow:active {
   background-color: #171717;
 }
 
+#resume.section {
+  
+  margin-top: 50px;
+  
+}
+
 #resume  {
   text-align: center;
 }
