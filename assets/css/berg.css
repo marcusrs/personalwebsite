@@ -2054,6 +2054,7 @@ button.mfp-arrow:active {
   margin-bottom: 2cm;
 }
 #skills .section-wrapper > .section-content {
+  padding-top: 300px;
   padding-bottom: 600px;
 }
 
