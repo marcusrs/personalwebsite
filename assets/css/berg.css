@@ -1685,7 +1685,7 @@ button.mfp-arrow:active {
 
 .container.section-wrapper {
   
-  margin-top: -10px;
+  margin-top: 10px;
 }
 
 #resume  {
@@ -1703,7 +1703,7 @@ button.mfp-arrow:active {
 }
 
 #resume .work-experience {
-  margin-top: 50px;
+  margin-top: 10px;
 }
 
 .work {
