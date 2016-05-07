@@ -2054,13 +2054,9 @@ button.mfp-arrow:active {
   opacity: 0.9;
 }
 
-/* #skills.section {
-  
-  margin-bottom: 2cm;
-} */
 #skills .section-wrapper > .section-content {
   padding-top: 300px;
-  padding-bottom: 600px;
+  padding-bottom: 500px;
 }
 
 @media (min-width: 768px) {
