@@ -2051,10 +2051,10 @@ button.mfp-arrow:active {
 
 #skills.section {
   
-  margin-bottom:10cm;
+  margin-bottom: 2cm;
 }
 #skills .section-wrapper > .section-content {
-  padding-bottom: 470px;
+  padding-bottom: 600px;
 }
 
 @media (min-width: 768px) {
