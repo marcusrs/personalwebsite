@@ -2054,9 +2054,14 @@ button.mfp-arrow:active {
   opacity: 0.9;
 }
 
+#skills.section {
+  
+  margin-bottom: 200px;
+}
+
 #skills .section-wrapper > .section-content {
   padding-top: 300px;
-  padding-bottom: 800px;
+  padding-bottom: 600px;
 }
 
 @media (min-width: 768px) {
@@ -2220,6 +2225,7 @@ button.mfp-arrow:active {
 #contact .contact-form {
   margin-top: 0px;
 }
+
 
 #contact .contact-form .form-group {
   margin-bottom: 20px;
