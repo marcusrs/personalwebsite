@@ -570,12 +570,13 @@ header.hero .hero-body .hero-text .page-scroll {
   padding-bottom:45px;
 }
 
+
 .btn.btn-default:hover {
   
   background-color:green;
 }
 
-}
+
 #background {
   position: fixed;
   right: 0;
