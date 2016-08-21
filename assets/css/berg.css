@@ -564,18 +564,6 @@ header.hero .hero-body .hero-text .page-scroll {
 }
 
 
-#sound{
-
-  padding-top:10px;
-  padding-bottom:45px;
-}
-
-
-.btn.btn-default:hover {
-  
-  background-color:green;
-}
-
 
 #background {
   position: fixed;
