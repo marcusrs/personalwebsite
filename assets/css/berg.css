@@ -603,7 +603,7 @@ header.hero.parallax-yes > .parallax > .bcg {
 }
 
 @media (min-width: 1280px) {
-  header.hero.parallax-yes > .parallax > .bcg {
+  header.hero.parallax-yes > .parallax > .bcg  {
     background-attachment: fixed;
   }
 }
