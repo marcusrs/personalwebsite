@@ -955,11 +955,9 @@ header.hero.parallax-yes > .parallax > .bcg {
 /*---------------------------------------------------------------------*/
 /*  6.1. SECTION - PROFILE
 /*---------------------------------------------------------------------*/
-
-.btn btn-success btn-lg {
+#button{
   
-  margin-bottom: 45px;
-  
+  margin-bottom: 50%;
 }
 
 #profile {
