@@ -957,7 +957,7 @@ header.hero.parallax-yes > .parallax > .bcg {
 /*---------------------------------------------------------------------*/
 #button{
   
-  margin-bottom: 50%;
+  padding-bottom: 50px;
 }
 
 #profile {
