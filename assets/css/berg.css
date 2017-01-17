@@ -550,10 +550,10 @@ header.hero .hero-body .hero-text .page-scroll {
 
 #background { 
   background: url('video/Lighthouse_1917.mp4') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
 }
 
 
