@@ -548,7 +548,7 @@ header.hero .hero-body .hero-text .page-scroll {
 /*  4.3. PARALLAX
 /*---------------------------------------------------------------------*/
 
-video {
+.video {
   
   position: absolute;
   top: 50%;
