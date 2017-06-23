@@ -548,7 +548,7 @@ header.hero .hero-body .hero-text .page-scroll {
 /*  4.3. PARALLAX
 /*---------------------------------------------------------------------*/
 
-.video {
+.container.video {
   
   position: absolute;
   top: 50%;
@@ -580,7 +580,7 @@ header.hero .hero-body .hero-text .page-scroll {
 
 
 
-/*#background {
+#background {
   position: fixed;
   right: 0;
   bottom: 0;
@@ -592,7 +592,7 @@ header.hero .hero-body .hero-text .page-scroll {
   background: transparent url(video-bg.jpg) no-repeat;
   background-size: cover;
   overflow: hidden;
-} */
+} 
 
 header.hero.parallax-yes {
   display: block;
