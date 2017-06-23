@@ -548,6 +548,21 @@ header.hero .hero-body .hero-text .page-scroll {
 /*  4.3. PARALLAX
 /*---------------------------------------------------------------------*/
 
+video {
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 100%;
+  min-height: 100%;
+  height: auto;
+  z-index: 1;
+
+}
+
+
+
 #background { 
   background: url('video/Lighthouse_1917.mp4') no-repeat; 
   -webkit-background-size: 100% 100%;
