@@ -549,7 +549,10 @@ header.hero .hero-body .hero-text .page-scroll {
 /*---------------------------------------------------------------------*/
 
 
-
+#video {
+    width: 100%;
+    height: auto;
+}
 
 
 #background { 
