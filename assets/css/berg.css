@@ -558,9 +558,13 @@ header.hero .hero-body .hero-text .page-scroll {
   min-height: 100%;
   height: auto;
   z-index: -100;
-  transform: translate(-50%, -50%);
+  transform: translateX(-50%) translateY(-50%);
   image-rendering:optimizeQuality;
+  background: url("lightHouse.JPG") no-repeat;
+  background-size: cover;
+  transition: 1s opacity;
 }
+
 
 
 
