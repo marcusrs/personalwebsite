@@ -549,7 +549,7 @@ header.hero .hero-body .hero-text .page-scroll {
 /*---------------------------------------------------------------------*/
 
 
-/*#video {
+#video {
   position: fixed;
   top: 50%;
   left: 50%;
@@ -559,27 +559,14 @@ header.hero .hero-body .hero-text .page-scroll {
   z-index: -100;
   transform: translateX(-50%) translateY(-50%);
   image-rendering:optimizeQuality;
-  background-image:url("./pictures/lightHouse.JPG");
+  background-image:url("pictures/lightHouse.JPG");
   background-size: cover;
   transition: 1s opacity;
-}*/
-
-video.fullscreen { 
-  position: fixed;
-  top:50%;
-  left: 50%;
-  min-width: 100%;
-  min-height: 100%;
-  width: auto;
-  height: auto;
-  z-index: -100;
-  transform: translate(-50%, -50%);
 }
 
 
-
 #background { 
-  background: url('../video/LightHouse.mp4') no-repeat; 
+  background: url('video/LightHouse.mp4') no-repeat; 
   -webkit-background-size: 100% 100%;
   -moz-background-size: 100% 100%;
   -o-background-size: 100% 100%;
@@ -604,7 +591,7 @@ video.fullscreen {
   height: auto;
   min-height: 100%;
   z-index: -100;
-  background: transparent url(lightHouse.JPG) no-repeat;
+  background: url(lightHouse.JPG) no-repeat;
   background-size: cover;
   overflow: hidden;
 } 
