@@ -564,9 +564,9 @@ header.hero .hero-body .hero-text .page-scroll {
   transition: 1s opacity;
 }*/
 
-.fullscreen { 
+video.fullscreen { 
   position: fixed;
-  top: 50%;
+  top:50%;
   left: 50%;
   min-width: 100%;
   min-height: 100%;
