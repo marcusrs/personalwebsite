@@ -562,6 +562,7 @@ header.hero .hero-body .hero-text .page-scroll {
   background-image:url("pictures/lightHouse.JPG");
   background-size: cover;
   transition: 1s opacity;
+  display: block;
 }
 
 
