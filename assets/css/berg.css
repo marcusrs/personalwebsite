@@ -55,11 +55,56 @@
 8. FOOTER
 
 -----------------------------------------------------------------------*/
+/*  1.0 Custom CSS
+/*  1.1 GENERAL STYLES
+/*---------------------------------------------------------------------*/
+
+
+
 
 
 /*---------------------------------------------------------------------*/
-/*  1. GLOBAL STYLES
-/*  1.1 GENERAL STYLES
+/*  1.0 Custom CSS
+/*---------------------------------------------------------------------*/
+
+
+#background {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  height: auto;
+  z-index: -100;
+  transform: translateX(-50%) translateY(-50%);
+  image-rendering:optimizeQuality;
+  background-image:url("pictures/lightHouse.JPG");
+  background-size: cover;
+  transition: 1s opacity;
+  display: block;
+}
+
+
+#background { 
+  background: url('video/LightHouse.mp4') no-repeat; 
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+
+
+#audio {
+   width: 400px;
+   padding-bottom: 25px;
+   padding-top: 20px;
+}
+
+
+
+
+/*---------------------------------------------------------------------*/
+/*  1.1. General STYLES
 /*---------------------------------------------------------------------*/
 body,
 html {
@@ -547,41 +592,6 @@ header.hero .hero-body .hero-text .page-scroll {
 /*---------------------------------------------------------------------*/
 /*  4.3. PARALLAX
 /*---------------------------------------------------------------------*/
-
-
-#background {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  min-width: 100%;
-  min-height: 100%;
-  height: auto;
-  z-index: -100;
-  transform: translateX(-50%) translateY(-50%);
-  image-rendering:optimizeQuality;
-  background-image:url("pictures/lightHouse.JPG");
-  background-size: cover;
-  transition: 1s opacity;
-  display: block;
-}
-
-
-#background { 
-  background: url('video/LightHouse.mp4') no-repeat; 
-  -webkit-background-size: 100% 100%;
-  -moz-background-size: 100% 100%;
-  -o-background-size: 100% 100%;
-  background-size: 100% 100%;
-}
-
-
-#audio {
-   width: 400px;
-   padding-bottom: 25px;
-   padding-top: 20px;
-}
-
-
 
 header.hero.parallax-yes {
   display: block;
