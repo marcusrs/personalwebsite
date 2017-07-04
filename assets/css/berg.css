@@ -583,20 +583,6 @@ header.hero .hero-body .hero-text .page-scroll {
 
 
 
-/*#background {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  width: auto;
-  min-width: 100%;
-  height: auto;
-  min-height: 100%;
-  z-index: -100;
-  background: url(lightHouse.JPG) no-repeat;
-  background-size: cover;
-  overflow: hidden;
-} */
-
 header.hero.parallax-yes {
   display: block;
   background: none;
