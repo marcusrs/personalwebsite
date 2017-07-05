@@ -980,7 +980,7 @@ header.hero.parallax-yes > .parallax > .bcg {
 
 @media (min-width: 992px) {
   #profile .section-wrapper > .section-content {
-    padding-bottom: 800px;
+    padding-bottom: 600px;
   }
 }
 .modal-header::after {
