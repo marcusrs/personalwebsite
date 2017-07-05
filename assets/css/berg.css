@@ -971,11 +971,12 @@ header.hero.parallax-yes > .parallax > .bcg {
 /*---------------------------------------------------------------------*/
 #badge{
   
-  margin-bottom: 80px;
+  margin-bottom: 50px;
 }
 
 #profile {
   background-color: #0d0c0d;
+  padding-top: 25px;
 }
 
 @media (min-width: 992px) {
